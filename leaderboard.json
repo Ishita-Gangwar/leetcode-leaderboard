@@ -1,0 +1,26 @@
+[
+    {
+        "username": "rahul_dev",
+        "totalSolved": 725,
+        "easySolved": 300,
+        "mediumSolved": 340,
+        "hardSolved": 85,
+        "contestRating": 1834
+    },
+    {
+        "username": "aanya_codes",
+        "totalSolved": 655,
+        "easySolved": 290,
+        "mediumSolved": 290,
+        "hardSolved": 75,
+        "contestRating": 1702
+    },
+    {
+        "username": "priya_mehta",
+        "totalSolved": 590,
+        "easySolved": 270,
+        "mediumSolved": 250,
+        "hardSolved": 70,
+        "contestRating": 1600
+    }
+]
